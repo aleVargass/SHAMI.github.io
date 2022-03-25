@@ -1,4 +1,5 @@
-# SHAMI.github.io
-Landing page of shamisens
+# SHAMI
 
-Check it! https://alevargass.github.io/SHAMI.github.io/
+## Landing page of shamisens
+
+A fake landing page where you can buy real shamisens
